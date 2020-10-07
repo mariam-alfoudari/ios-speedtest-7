@@ -13,6 +13,7 @@
 		046D4D77249465AC00120869 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046D4D75249465AC00120869 /* Main.storyboard */; };
 		046D4D79249465AE00120869 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046D4D78249465AE00120869 /* Assets.xcassets */; };
 		046D4D7C249465AE00120869 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046D4D7A249465AE00120869 /* LaunchScreen.storyboard */; };
+		39FE5172252E140E00DC3294 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FE5171252E140E00DC3294 /* DetailsVC.swift */; };
 		D2F9B9A6252D71570092DD87 /* IBElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F9B9A5252D71570092DD87 /* IBElements.swift */; };
 		D2F9B9B0252D71ED0092DD87 /* Cairo-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AA252D71ED0092DD87 /* Cairo-Bold.ttf */; };
 		D2F9B9B1252D71ED0092DD87 /* Cairo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D2F9B9AB252D71ED0092DD87 /* Cairo-Regular.ttf */; };
@@ -31,6 +32,7 @@
 		046D4D78249465AE00120869 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		046D4D7B249465AE00120869 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		046D4D7D249465AE00120869 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39FE5171252E140E00DC3294 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		D2F9B9A5252D71570092DD87 /* IBElements.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IBElements.swift; sourceTree = "<group>"; };
 		D2F9B9AA252D71ED0092DD87 /* Cairo-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Bold.ttf"; sourceTree = "<group>"; };
 		D2F9B9AB252D71ED0092DD87 /* Cairo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Cairo-Regular.ttf"; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				046D4D6F249465AC00120869 /* AppDelegate.swift */,
 				046D4D71249465AC00120869 /* SceneDelegate.swift */,
 				046D4D73249465AC00120869 /* ViewController.swift */,
+				39FE5171252E140E00DC3294 /* DetailsVC.swift */,
 				046D4D75249465AC00120869 /* Main.storyboard */,
 				046D4D78249465AE00120869 /* Assets.xcassets */,
 				046D4D7A249465AE00120869 /* LaunchScreen.storyboard */,
@@ -177,6 +180,7 @@
 				046D4D70249465AC00120869 /* AppDelegate.swift in Sources */,
 				046D4D72249465AC00120869 /* SceneDelegate.swift in Sources */,
 				D2F9B9A6252D71570092DD87 /* IBElements.swift in Sources */,
+				39FE5172252E140E00DC3294 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
